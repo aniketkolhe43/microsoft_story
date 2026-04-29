@@ -1,22 +1,42 @@
 #main {
     max-width: 100%;
+<<<<<<< HEAD
     border: 1px solid green;
     
+=======
+
+>>>>>>> 22ecb8e31c116ba2478f9e0cc5f7d9983466adbf
 }
+
 #navbar {
     width: 100%;
+<<<<<<< HEAD
     height: 40px; 
     margin:10px;
+=======
+    height: 40px;
+    margin: top 100px;
+    background-color: aqua;
+>>>>>>> 22ecb8e31c116ba2478f9e0cc5f7d9983466adbf
     align-items: center;
     justify-content: center;
     display: flex;
 }
 
+<<<<<<< HEAD
 #parent_nav{
+=======
+#mslogo {
+    width: 10;
+}
+
+#parent_nav {
+>>>>>>> 22ecb8e31c116ba2478f9e0cc5f7d9983466adbf
     width: 90%;
     border: 1px solid black;
     height: 100%;
     display: flex;
+<<<<<<< HEAD
     margin:20px;
 }
 
@@ -24,12 +44,27 @@
  border: 1px solid red;
  width: 80%;
  height: 100%;
+=======
+    
+}
+
+#nav_part_one {
+    border: 1px solid red;
+    width: 20px;
+    height: 20px
+>>>>>>> 22ecb8e31c116ba2478f9e0cc5f7d9983466adbf
 }
 
 
 
 #nav_part_two {
+<<<<<<< HEAD
  border: 1px solid pink;
  width: 20%;
  height: 100%;
+=======
+    border: 1px solid pink;
+    width: 20px;
+    height: 20px
+>>>>>>> 22ecb8e31c116ba2478f9e0cc5f7d9983466adbf
 }
